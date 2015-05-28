@@ -29,6 +29,10 @@ angular
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
       })
+      .when('/community-event', {
+        templateUrl: 'views/community-event.html',
+        controller: 'CommunityEventCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
