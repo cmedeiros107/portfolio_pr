@@ -1,0 +1,1 @@
+# portfolio_pr  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/cmedeiros107/portfolio_pr.gitgit push -u origin master
